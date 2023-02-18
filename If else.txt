@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: if else, configuración: Debug Any CPU ------
+1>  if else -> C:\Users\CCBB\source\repos\if else\bin\Debug\if else.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========

@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: Calcule la suma de los primeros cinco numeros, configuración: Debug Any CPU ------
+1>  Calcule la suma de los primeros cinco numeros -> C:\Users\CCBB\source\repos\Calcule la suma de los primeros cinco numeros\bin\Debug\Calcule la suma de los primeros cinco numeros.exe
+========== Compilar: 1 correctos, 0 incorrectos, 0 actualizados, 0 omitidos ==========
